@@ -11,7 +11,7 @@ The "Tehran" customization is one of the featured setups in this repository. It 
 
 ## Contents
 
-- [Tehran](/Customization/Manjaro%20KDE/Tehran): Description of folder 1 contents.
+- [Tehran](/Customization/Manjaro%20KDE/Tehran): Tehran's customization for KDE.
 
 ## Usage
 
