@@ -8,7 +8,7 @@ Every time I use this setup, it brings me a comforting feeling of familiarity.
 
 
 ## Installation
-To begin, right-click on the panel and select "Add Widgets...". Look for or install PlasmaConfigSaver.\
+To begin, right-click on the panel and select "Add Widgets...". Look for or install "Plasma Customization Saver by yomismo".\
 Next, save your current customization so that you can load it later if desired.
 
 Afterward, you need to install and activate the Orchis Theme. You can find it [here](https://github.com/vinceliuice/Orchis-theme).\
